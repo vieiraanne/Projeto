@@ -1,7 +1,3 @@
-Claro! Com base no seu código HTML, este README descreve o projeto, suas funcionalidades, tecnologias utilizadas e estrutura.
-
- README.md — Portfólio Anne Vieira Rodrigues
-
 # 💻 Portfólio — Anne Vieira Rodrigues
 
  Este projeto consiste em uma página de **portfólio pessoal** desenvolvida com HTML5. A página apresenta informações sobre a desenvolvedora, suas habilidades, projetos realizados e um formulário para contato.
